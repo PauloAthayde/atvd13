@@ -1,0 +1,17 @@
+{
+  "name": "atvd13",
+  "version": "1.0.0",
+  "description": "seila",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "paulo",
+  "license": "ISC",
+  "type": "module"
+}
